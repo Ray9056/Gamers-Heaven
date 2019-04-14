@@ -1,1 +1,1 @@
-# Ajax-Giphy-API
+# GifTastic-GiphyAPI
