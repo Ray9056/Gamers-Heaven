@@ -1,0 +1,46 @@
+body {
+    background-image: url(/assets/images/background.jpg)
+}
+
+img {
+    max-width: 75%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+label, p {
+    color: tomato;
+    font-family: 'Boogaloo', cursive;
+    font-size: 20px;
+}
+
+h3 {
+    font-size: 40px;
+}
+
+
+.gamer {
+    transition-duration: 0.4s;
+    font-family: 'VT323', monospace;
+    border-radius: 10px;
+    font-size: 20px;
+}
+
+.gamer:hover {
+    background-color: tomato;
+    color: white;
+}
+
+
+#game-form {
+    margin-right: 900px;
+    padding: auto;
+    font-family: 'VT323', monospace;
+}
+
+#add-game {
+    margin-top: 20px;
+}
+
