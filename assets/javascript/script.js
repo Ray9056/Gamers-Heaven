@@ -3,7 +3,7 @@ $(document).ready(function() {
 
     var gameGif = ["World Of Warcraft", "Fortnite", "Call of Duty", "God Of War", "League of Legends", 
     "Assassin's Creed", "Minecraft", "Devil May Cry 5", "Super Smash Bros.", "Overwatch", "Grand Theft Auto", 
-    "The Legend of Zelda", "Mortal Kombat", "Minecraft", "Borderlands 3"];	
+    "The Legend of Zelda", "Mortal Kombat", "Minecraft", "Borderlands 3", "Grand Theft Auto V"];	
   
     //  create gameGif array buttons
     function renderButtons(){
