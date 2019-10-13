@@ -6,11 +6,11 @@ When you click on a game, the page will display 10 static, non-animated gif imag
 
 ## Technologies used
 
-HTML
-CSS
-JavaScript
-JQuery
-Giphy API
+* HTML
+* CSS
+* JavaScript
+* JQuery
+* Giphy API
 
 [![Image from Gyazo](https://i.gyazo.com/e41466cb30dcf49369fea36d27df8947.gif)](https://gyazo.com/e41466cb30dcf49369fea36d27df8947)
 
